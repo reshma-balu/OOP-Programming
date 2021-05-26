@@ -21,9 +21,9 @@ System.out.println("Enter the data of p3:");
 p3.pcode=sc.nextInt();
 p3.pname=sc.next();
 p3.price=sc. nextInt();
-if(p2.price<p1.price && p3.price<p1.price)
+if(p1.price<p2.price && p1.price<p3.price)
 System. out. println(p1.price+"is the lowest price");
-else if(p1.price<p2.price && p3.price<p2.price)
+else if(p2.price<p1.price && p2.price<p3.price)
 System. out. println(p2.price+"is the lowest price");
 else
 System. out. println(p3.price+"is the lowest price");
