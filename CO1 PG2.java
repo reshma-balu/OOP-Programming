@@ -5,7 +5,7 @@ int pcode, price;
 String pname;
 public static void main(String args[])
 {
-Scanner ob=new Scanner (System.in);
+Scanner sc=new Scanner (System.in);
 product p1=new product();
 product p2=new product();
 product p3=new product();
