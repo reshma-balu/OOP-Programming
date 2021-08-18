@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Sort
+public class String
 {
     public static void main(String[] args) 
     {
