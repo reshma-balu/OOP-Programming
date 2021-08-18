@@ -23,4 +23,4 @@ System.out.println("Area of Square="+sh.area(a1));
 System.out.println("Enter Length and Breadth:");
 l1=ob.nextInt();
 b1=ob.nextInt();
-System.out.println("Area of Rectangle="+sh.area(l1,b1);
+System.out.println("Area of Rectangle="+sh.area(l1,b1));
