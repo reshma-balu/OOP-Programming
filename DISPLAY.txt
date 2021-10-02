@@ -1,0 +1,12 @@
+----------------------
+THIS IS A JAVA PROGRAM
+----------------------
+
+QUESTION TO DISPLAY 
+...................
+
+NUMBER OF CHARACTERS IN THIS FILE.
+
+NUMBER OF LINES IN THIS FILE.
+
+AND ALSO THE NUMBER OF WORDS IN THIS FILE.
